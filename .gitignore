@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# OSX specific
+.DS_Store
+
+# Build products
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# External git modules
+pybind11/
+handIndex/hand-isomorphism/
